@@ -1,0 +1,27 @@
+#fotoTitulo {
+  text-align: center;
+  border: 50pc;
+  border-color: black;
+  border-width: 4;
+}
+h1 {
+  background-color: grey;
+  color: white;
+}
+#foto {
+  border: 5px solid white;
+  border-radius: 30px 80px 10px;
+  margin: auto;
+  width: 50%;
+}
+#Logo:hover {
+  margin-top: 2px;
+}
+
+#texto{
+  color: white;
+}
+
+.Imagen{
+  text-align: center;
+}
